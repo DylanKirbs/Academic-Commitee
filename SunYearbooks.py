@@ -1,6 +1,6 @@
 from pprint import pprint
 from PyPDF2 import PdfReader
-from Utils import *
+from Utilities.Utils import *
 import json
 
 class SunYearbook:
@@ -73,7 +73,7 @@ class SunYearbook:
 if __name__ == "__main__":
 
 
-    from HemisDBManager import HemisDBManager
+    from Data.HemisDBManager import HemisDBManager
     HemisDB = HemisDBManager("HemisDB.json")
 
     yearBookPath = os.path.join(os.getcwd(), "Yearbooks")
