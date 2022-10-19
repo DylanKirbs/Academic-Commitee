@@ -49,6 +49,14 @@ class HemisDBManager:
 
         self._data["Degrees"].update(degree)
 
+    def removeDegree(self, degree: str):
+        """
+        Removes the degree from the DB
+
+        :param degree: The degree to remove
+        """
+        self._data["Degrees"].pop(degree)
+
 
     @property
     def data(self) -> dict:

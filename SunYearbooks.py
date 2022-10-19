@@ -74,12 +74,7 @@ if __name__ == "__main__":
 
 
     from Data.HemisDBManager import HemisDBManager
-    HemisDB = HemisDBManager("HemisDB.json")
-
-    yearBookPath = os.path.join(os.getcwd(), "Yearbooks")
-    outlinePath = os.path.join(os.getcwd(), "Outlines")
+    HemisDB = HemisDBManager("Data/HemisDB.json")
 
     pprint(HemisDB.degrees)
-
-    HemisDB.save()
 
