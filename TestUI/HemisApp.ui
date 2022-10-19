@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<interface version="1.3">
+  <object class="tk.Toplevel" id="MainWindow" named="True">
+    <property name="geometry">640x480</property>
+    <property name="resizable">both</property>
+    <property name="title" translatable="yes">Hemis Calculator</property>
+    <child>
+      <object class="pygubu.builder.widgets.toplevelmenu" id="toplevelmenu6">
+        <child>
+          <object class="tk.Menu" id="menu5">
+            <child>
+              <object class="tk.Menuitem.Submenu" id="FileMenu" named="True">
+                <property name="label" translatable="yes">File</property>
+                <property name="tearoff">false</property>
+                <child>
+                  <object class="tk.Menuitem.Command" id="ExitCommand" named="True">
+                    <property name="label" translatable="yes">Exit</property>
+                  </object>
+                </child>
+              </object>
+            </child>
+            <child>
+              <object class="tk.Menuitem.Submenu" id="HelpMenu" named="True">
+                <property name="label" translatable="yes">Help</property>
+                <property name="tearoff">false</property>
+                <child>
+                  <object class="tk.Menuitem.Command" id="AboutMenu" named="True">
+                    <property name="label" translatable="yes">About</property>
+                  </object>
+                </child>
+                <child>
+                  <object class="tk.Menuitem.Command" id="Contact" named="True">
+                    <property name="label" translatable="yes">Contact Us</property>
+                  </object>
+                </child>
+              </object>
+            </child>
+          </object>
+        </child>
+      </object>
+    </child>
+  </object>
+  <object class="tk.Toplevel" id="AboutWindow" named="True">
+    <property name="background">#eeeeee</property>
+    <property name="height">200</property>
+    <property name="relief">groove</property>
+    <property name="title" translatable="yes">About Us</property>
+    <property name="width">200</property>
+    <child>
+      <object class="ttk.Label" id="label1">
+        <property name="background">#eeeeee</property>
+        <property name="font">{DejaVu Sans} 14 {}</property>
+        <property name="padding">5</property>
+        <property name="text" translatable="yes">Hemis Calculator</property>
+        <layout manager="grid">
+          <property name="column">0</property>
+          <property name="columnspan">2</property>
+          <property name="row">0</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Message" id="message2">
+        <property name="anchor">n</property>
+        <property name="aspect">10000</property>
+        <property name="background">#eeeeee</property>
+        <property name="font">{DejaVu Sans} 12 {}</property>
+        <property name="justify">right</property>
+        <property name="padx">5</property>
+        <property name="pady">5</property>
+        <property name="takefocus">false</property>
+        <property name="text" translatable="yes">0.1
+Dylan T. Kirby
+Helshoogte Academic Commitee</property>
+        <layout manager="grid">
+          <property name="column">1</property>
+          <property name="row">1</property>
+        </layout>
+      </object>
+    </child>
+    <child>
+      <object class="tk.Message" id="message3">
+        <property name="anchor">n</property>
+        <property name="aspect">10000</property>
+        <property name="background">#eeeeee</property>
+        <property name="font">{DejaVu Sans} 12 {}</property>
+        <property name="justify">left</property>
+        <property name="padx">5</property>
+        <property name="pady">5</property>
+        <property name="takefocus">false</property>
+        <property name="text" translatable="yes">Version:
+Author:
+Support:</property>
+        <layout manager="grid">
+          <property name="column">0</property>
+          <property name="row">1</property>
+        </layout>
+      </object>
+    </child>
+  </object>
+  <object class="pygubu.builder.widgets.dialog" id="dialog1">
+    <property name="height">100</property>
+    <property name="width">200</property>
+  </object>
+</interface>

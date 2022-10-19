@@ -1,0 +1,1168 @@
+[
+    "Table of Contents",
+    "How to use this Calendar Part",
+    [
+        "1. Where to find information",
+        [
+            "1.1 Prospective undergraduate students",
+            "1.2 Prospective postgraduate students",
+            "1.3 Registered undergraduate students",
+            "1.4 Registered postgraduate students"
+        ]
+    ],
+    "General Information",
+    [
+        "1. History and functions of the Faculty of Arts and Social Sciences",
+        [
+            "1.1 History, structure and mission",
+            "1.2 Research and community interaction"
+        ],
+        "2. How to communicate with the Faculty",
+        [
+            "2.1 Contact details of the Faculty of Arts and Social Sciences",
+            "2.2 Physical address and contact details of the Dean\u2019s Office",
+            "2.3 Contact persons and details",
+            "2.4 Contact details of Departments",
+            "2.5 BA Students Committee (BASC)"
+        ],
+        "3. How to communicate with Stellenbosch University",
+        [
+            "3.1 Using your student number",
+            "3.2 Contact details of Stellenbosch University"
+        ],
+        "4. Language at the University",
+        "5. General regulations for academic complaints procedure",
+        "6. Internal regulations for Dean\u2019s Concession Examinations",
+        "7. Completion of modules through Unisa or another university",
+        "8. Recognition of subjects/modules/credits completed elsewhere",
+        "9. Simultaneous registration for more than one year of study in a subject for graduation purposes",
+        "10.  Readmission requirements"
+    ],
+    "Undergraduate Programmes",
+    [
+        "1. Undergraduate enrolment management",
+        "2. Subjects for university admission",
+        "3. General requirements for bachelor\u2019s degrees, diplomas and certificates",
+        [
+            "3.1 Choice of subject combinations"
+        ],
+        "4. General regulations for Extended Degree Programmes (EDPs) and early testing",
+        "5. Bachelor\u2019s degree programmes",
+        [
+            "5.1 BA (Humanities)",
+            "5.2 BA (Social Dynamics)",
+            "5.3 BA (Language and Culture)",
+            "5.4 B of Data Science (BDatSci)",
+            "5.5 BA (Drama and Theatre Studies)",
+            "5.6 BA (International Studies)",
+            "5.7 B in Social Work",
+            "5.8 BA (Human Resource Management)",
+            "5.9 BA (Music)",
+            "5.10 BMus",
+            [
+                "5.10.1 BMus in Composition",
+                "5.10.2 BMus in Music Education",
+                "5.10.3 BMus in Music Technology",
+                "5.10.4 BMus in Musicology",
+                "5.10.5 BMus in Performance"
+            ],
+            "5.11 BA (Development and Environment)",
+            "5.12 BA (Political, Philosophical and Economic Studies [PPE])",
+            "5.13 BA (Law)",
+            "5.14 BA (Socio-Informatics)",
+            [
+                "5.14.1 Option 1: Information Systems",
+                "5.14.2 Option 2: Geo-Informatics"
+            ],
+            "5.15 BA (Sport Science)",
+            [
+                "5.15.1 Sport Science with Afrikaans and Dutch",
+                "5.15.2 Sport Science with English Studies",
+                "5.15.3 Sport Science with Geography and Environmental Studies",
+                "5.15.4 Sport Science with Psychology"
+            ],
+            "5.16 BA in Visual Arts",
+            [
+                "5.16.1 Current programme (programme phased in since 2019)",
+                "5.16.2 Outgoing programme",
+                "5.16.3 Fine Arts"
+            ]
+        ],
+        "6. Certificate and diploma programmes",
+        [
+            "6.1 Higher Certificate in Audio Technology",
+            "6.2 Higher Certificate in Music",
+            "6.3 Diploma (Practical Music)",
+            "6.4 Advanced Diploma (Practical Music)"
+        ]
+    ],
+    "Postgraduate Programmes",
+    [
+        "1. Recognition of Prior Learning (RPL)",
+        "2. General provisions for postgraduate programmes",
+        [
+            "2.1 Postgraduate diploma",
+            "2.2 Honours degree programme",
+            "2.3 MA degree programme",
+            "2.4 MPhil degree programme",
+            "2.5 PhD degree programme",
+            "2.6 DPhil degree programme"
+        ],
+        "3. Postgraduate programmes per department",
+        [
+            "3.1 Department of African Languages",
+            [
+                "3.1.1 BAHons (African Languages)",
+                "3.1.2 BAHons (African Languages for Professional Contexts)",
+                "3.1.3 MA (African Languages)",
+                "3.1.4 MA (African Languages for Professional Contexts)",
+                "3.1.5 PhD (African Languages)"
+            ],
+            "3.2 Department of Afrikaans and Dutch",
+            [
+                "3.2.1 BAHons (Afrikaans and Dutch)",
+                "3.2.2 BAHons (Translation)",
+                "3.2.3 MA (Afrikaans and Dutch)",
+                "3.2.4 MA (Creative Writing)",
+                "3.2.5 MA (Lexicography)",
+                "3.2.6 MA (Translation)",
+                "3.2.7 PhD (Afrikaans and Dutch)",
+                "3.2.8 PhD (Lexicography)",
+                "3.2.9 PhD (Translation)"
+            ],
+            "3.3 Department of Ancient Studies",
+            [
+                "3.3.1 BAHons (Ancient Cultures)",
+                "3.3.2 BAHons (Ancient Languages)",
+                "3.3.3 MA (Ancient Cultures)",
+                "3.3.4 MA (Ancient Languages)",
+                "3.3.5 PhD (Ancient Cultures)",
+                "3.3.6 PhD (Ancient Languages)"
+            ],
+            "3.4 Department of Drama",
+            [
+                "3.4.1 BAHons (Drama and Theatre Studies)",
+                "3.4.2 MA (Drama and Theatre Studies)",
+                "3.4.3 PhD (Drama and Theatre Studies)"
+            ],
+            "3.5 Department of English",
+            [
+                "3.5.1 BAHons (English Studies)",
+                "3.5.2 MA (English Studies)",
+                "3.5.3 PhD (English Studies)"
+            ],
+            "3.6 Department of General Linguistics",
+            [
+                "3.6.1 Postgraduate Diploma in Intercultural Communication",
+                "3.6.2 Postgraduate Diploma in Second-language Studies",
+                "3.6.3 BAHons (General Linguistics)",
+                "3.6.4 MA (General Linguistics)",
+                "3.6.5 MA (Intercultural Communication)",
+                "3.6.6 MA (Second-language Studies)",
+                "3.6.7 PhD (General Linguistics)"
+            ],
+            "3.7 Department of Geography and Environmental Studies",
+            [
+                "3.7.1 BAHons (Geography and Environmental Studies)",
+                "3.7.2 BAHons (Geographical Information Systems)",
+                "3.7.3 MA (Geography and Environmental Studies)",
+                "3.7.4 MA (Geographical Information Systems)",
+                "3.7.5 Master of Urban and Regional Planning",
+                "3.7.6 MPhil (Urban and Regional Science)",
+                "3.7.7 PhD (Geography and Environmental Studies)",
+                "3.7.8 PhD (Urban and Regional Planning)",
+                "3.7.9 PhD (Urban and Regional Science)"
+            ],
+            "3.8 Department of History",
+            [
+                "3.8.1 BAHons (History)",
+                "3.8.2 MA (History)",
+                "3.8.3 PhD (History)"
+            ],
+            "3.9 Department of Information Science",
+            [
+                "3.9.1 Postgraduate Diploma in Knowledge and Information Systems Management",
+                "3.9.2 BInfHons (Information System Management)",
+                "3.9.3 MA (Socio-Informatics)",
+                "3.9.4 MPhil (Decision-making and Knowledge Dynamics)",
+                "3.9.5 MPhil (Information and Knowledge Management)",
+                "3.9.6 PhD (Decision-making and Knowledge Dynamics)",
+                "3.9.7 PhD (Socio-Informatics)"
+            ],
+            "3.10 Department of Journalism",
+            [
+                "3.10.1 BAHons (Journalism)",
+                "3.10.2 MA (Journalism)",
+                "3.10.3 PhD (Journalism)"
+            ],
+            "3.11 Department of Modern Foreign Languages",
+            [
+                "3.11.1 Postgraduate Diploma in Technology for Language Learning",
+                "3.11.2 BAHons (Chinese)",
+                "3.11.3 BAHons (German)",
+                "3.11.4 BAHons (French)",
+                "3.11.5 MA (German)",
+                "3.11.6 MA (French)",
+                "3.11.7 MA (Technology for Language Learning)",
+                "3.11.8 PhD (German)",
+                "3.11.9 PhD (French)",
+                "3.11.10 PhD (Comparative Literature)"
+            ],
+            "3.12 Department of Music",
+            [
+                "3.12.1 Postgraduate Diploma in Film Music",
+                "3.12.2 Postgraduate Diploma in Music Technology",
+                "3.12.3 BMusHons",
+                "3.12.4 MMus",
+                "3.12.5 MPhil (Film Music)",
+                "3.12.6 MPhil (Music Technology)",
+                "3.12.7 PhD (Music)"
+            ],
+            "3.13 Department of Philosophy",
+            [
+                "3.13.1 Postgraduate Diploma in Applied Ethics",
+                "3.13.2 BAHons (Philosophy)",
+                "3.13.3 MA (Philosophy)",
+                "3.13.4 MPhil (Applied Ethics)",
+                "3.13.5 PhD (Philosophy)",
+                "3.13.6 PhD (Applied Ethics)"
+            ],
+            "3.14 Department of Political Science",
+            [
+                "3.14.1 BAHons (International Studies)",
+                "3.14.2 BAHons (Political Science)",
+                "3.14.3 MA (International Studies)",
+                "3.14.4 MA (Political Science)",
+                "3.14.5 PhD (Political Science)"
+            ],
+            "3.15 Department of Psychology",
+            [
+                "3.15.1 Postgraduate Diploma in Public Mental Health",
+                "3.15.2 BAHons (Psychology)",
+                "3.15.3 MA (Clinical Psychology)",
+                "3.15.4 MA (Psychology)",
+                "3.15.5 MPhil (Public Mental Health)",
+                "3.15.6 PhD (Psychology)"
+            ],
+            "3.16 Department of Social Work",
+            [
+                "3.16.1 M in Social Work",
+                "3.16.2 PhD (Social Work)"
+            ],
+            "3.17 Department of Sociology and Social Anthropology",
+            [
+                "3.17.1 Postgraduate Diploma in Social Science Methods",
+                "3.17.2 Postgraduate Diploma in Transdisciplinary Health and Development Studies",
+                "3.17.3 BAHons (Social Anthropology)",
+                "3.17.4 BAHons (Sociology)",
+                "3.17.5 MA (Social Science Methods)",
+                "3.17.6 MA (Social Anthropology)",
+                "3.17.7 MA (Sociology)",
+                "3.17.8 MA (Public Sociology and Anthropology)",
+                "3.17.9 MPhil (Transdisciplinary Health and Development Studies)",
+                "3.17.10 PhD (Social Science Methods)",
+                "3.17.11 PhD (Social Anthropology)",
+                "3.17.12 PhD (Sociology)"
+            ],
+            "3.18 Department of Visual Arts",
+            [
+                "3.18.1 BAHons (Visual Arts Illustration)",
+                "3.18.2 BAHons in Visual Studies",
+                "3.18.3 MA in Visual Arts",
+                "3.18.4 MA in Visual Arts (Art Education)",
+                "3.18.5 MA in Visual Studies",
+                "3.18.6 PhD (Visual Arts)"
+            ]
+        ],
+        "4. Postgraduate programmes offered by centres",
+        [
+            "4.1 Centre for Research on Evaluation, Science and Technology (CREST)",
+            [
+                "4.1.1 Postgraduate Diploma in Monitoring and Evaluation",
+                "4.1.2 Postgraduate Diploma in Research Management and Administration",
+                "4.1.3 MPhil (Monitoring and Evaluation)",
+                "4.1.4 MPhil (Science and Technology Studies)",
+                "4.1.5 PhD (Evaluation Studies)",
+                "4.1.6 PhD (Science and Technology Studies)"
+            ],
+            "4.2 Research Alliance for Disaster and Risk Reduction (RADAR)",
+            [
+                "4.2.1 Postgraduate Diploma in Disaster Risk Studies and Development",
+                "4.2.2 MPhil (Disaster Risk Science and Development [DRSD])"
+            ],
+            "4.3 Centre for Chinese Studies",
+            [
+                "4.3.1 MPhil (Chinese Studies)"
+            ],
+            "4.4 Interdepartmental and Interfaculty",
+            [
+                "4.4.1 Transdisciplinary Doctoral programme focused on Complexity and Sustainability"
+            ]
+        ]
+    ],
+    "Undergraduate Subjects, Modules and Module Contents",
+    [
+        "1. Definitions and explanations of important terms",
+        [
+            "1.1 Explanation of the abovementioned terms"
+        ],
+        "2. Prerequisite pass, prerequisite and corequisite modules",
+        [
+            "2.1 Condition for the granting of a qualification or degree"
+        ],
+        "3. Assessment of modules",
+        "4. Subjects, modules and module contents",
+        [
+            "Department of African Languages",
+            [
+                "41505 African Languages",
+                [
+                    "114 (12) Introductory Study of African Languages (3L, 1T)",
+                    "144 (12) Continued Introductory Study of African Languages (3L, 1T)",
+                    "214 (16) Intermediate Study of African Languages (3L, 1T)",
+                    "244 (16) Continued Intermediate Study of African Languages (3L, 1T)",
+                    "318 (24) Advanced Study of the African Languages (4L, 1T)",
+                    "348 (24) Continued Advanced Study of African Languages (4L, 1T)"
+                ],
+                "49638 Basic Xhosa",
+                [
+                    "114 (12) Introduction to Communication in Xhosa (3L, 1T)",
+                    "144 (12) Introduction to Communication in Xhosa (3L, 1T)",
+                    "174 (12) Introduction to Communication in Xhosa (3L, 1T)"
+                ],
+                "21687 Xhosa",
+                [
+                    "178 (24) Introduction to Xhosa Language and Culture (3L, 1T)",
+                    "188 (24) Introduction to Xhosa Language, Communication and Culture (3L, 1T)",
+                    "214 (16) Continued Xhosa Language and Culture (3L, 1T)",
+                    "224 (16) Continued Xhosa Language, Communication and Culture (3L, 1T)",
+                    "244 (16) Continued Xhosa Language and Culture (3L, 1T)",
+                    "254 (16) Continued Xhosa Language, Communication and Culture (3L, 1T)",
+                    "318 (24) Advanced Xhosa Language and Culture (4L, 1T)",
+                    "328 (24) Advanced Xhosa Language, Communication and Culture (4L, 1T)",
+                    "348 (24) Advanced Xhosa Language and Culture (4L, 1T)",
+                    "358 (24) Advanced Xhosa Language, Communication and Culture (4L, 1T)"
+                ]
+            ],
+            "Department of Afrikaans and Dutch",
+            [
+                "57487 Afrikaans Language Acquisition",
+                [
+                    "178 (24) Afrikaans for Foreign Language Speakers (3L, 2P)",
+                    "188 (24) Afrikaans as Second Language (3L, 2P)",
+                    "278 (32) Afrikaans for Foreign language Speakers (3L, 2P)",
+                    "288 (32) Afrikaans as a Second Language (3L, 2P)"
+                ],
+                "39373 Afrikaans and Dutch",
+                [
+                    "178(24) Introductory Studies in Afrikaans Language and Literature (3L, 2P)",
+                    "278(32) Intermediate Studies in Afrikaans Language and Literature (3L, 2P)",
+                    "318(24) Advanced Studies in Afrikaans Language and Literature (4L, 2P)",
+                    "348(24) Advanced Studies in Afrikaans Language and Literature (4L, 2P)"
+                ]
+            ],
+            "Department of Ancient Studies",
+            [
+                "53813 Ancient Cultures",
+                [
+                    "114 (12) Introduction to the Ancient World I (3L, 1P)",
+                    "144 (12) Introduction to the Ancient World II (3L, 1P)",
+                    "211 (8) Continued Ancient Cultures (1.5L, 0.5P)",
+                    "221 (8) Continued Ancient Cultures (1.5L, 0.5P)",
+                    "241 (8) Continued Ancient Cultures (1.5L, 0.5P)",
+                    "251 (8) Continued Ancient Cultures (1.5L, 0.5P)",
+                    "311 (12) Advanced Ancient Cultures (2L, 0.5P)",
+                    "321 (12) Advanced Ancient Cultures (2L, 0.5P)",
+                    "341 (12) Advanced Ancient Cultures (2L, 0.5P)",
+                    "351 (12) Advanced Ancient Cultures (2L, 0.5P)"
+                ],
+                "53848 Biblical Hebrew",
+                [
+                    "178 (24) Introduction to Biblical Hebrew (3L, 1P, 1T)",
+                    "214 (16) Continued Biblical Hebrew Language and Text Study (3L, 1P, 1T)",
+                    "244 (16) Continued Biblical Hebrew Language and Text Study (3L, 1P, 1T)",
+                    "314 (12) Advanced Study of Biblical Hebrew Language and Literature (2L, 1P)",
+                    "324 (12) Advanced Study of Biblical Hebrew Language and Literature (2L, 1P)",
+                    "344 (12) Advanced Study of Biblical Hebrew Language and Literature (2L, 1P)",
+                    "354 (12) Advanced Study of Biblical Hebrew Language and Literature (2L, 1P)"
+                ],
+                "14109 Greek",
+                [
+                    "178 (24) Introduction to Ancient Greek Grammar and Translation (3L, 1P, 1T)",
+                    "214 (16) Continued Ancient Greek Language and Text Study (3L, 1P, 1T)",
+                    "244 (16) Continued Ancient Greek Language and Text Study (3L, 1P, 1T)",
+                    "314 (12) Advanced Study of Ancient Greek Language and Literature (2L, 1P)",
+                    "324 (12) Advanced Study of Ancient Greek Language and Literature (2L, 1P)",
+                    "344 (12) Advanced Study of Ancient Greek Language and Literature (2L, 1P)",
+                    "354 (12) Advanced Study of Ancient Greek Language and Literature (2L, 1P)"
+                ],
+                "53856 Classical Legal Culture",
+                [
+                    "114 (12) Development of Roman Law in Historical Context (3L, 1P)",
+                    "144 (12) Development of Roman Law and its Legacy (3L, 1P)"
+                ],
+                "15644 Latin",
+                [
+                    "178 (24) Latin Grammar and Literature for Beginners (3L,1P, 1T)",
+                    "214 (16) Continued Latin Grammar and Literature (3L, 1P, 1T)",
+                    "244 (16) Continued Latin Grammar and Literature (3L, 1P, 1T)",
+                    "318 (24) Advanced Latin Literature (4L, 1P)",
+                    "348 (24) Advanced Latin Literature (4L, 1P)"
+                ]
+            ],
+            "Department of Drama",
+            [
+                "44377 Theatre Arts",
+                [
+                    "178 (24) Introduction to Acting and Stage Skills (2L, 8P)",
+                    "278 (32) Acting and Production (1L, 10P)",
+                    "288 (32) Theatre Design and Production (3L, 6P)",
+                    "379 (48) Acting and Production (2L, 10P)",
+                    "389 (48) Theatre Design and Production (4L, 6P)"
+                ],
+                "52531 Theatre Skills",
+                [
+                    "178 (24) Theatre Techniques (2L, 4P)",
+                    "278 (32) Speech and Movement (1L, 6P)",
+                    "288 (32) Stage Management and Media Techniques (3L, 6P)",
+                    "378 (24) Speech and Movement (1L, 6P)",
+                    "388 (24) Stage Management and Media (2L, 6P)"
+                ],
+                "14032 Theatre Studies",
+                [
+                    "114 (12) Introduction to Western Theatre and Principles of Text Study (3L, 1T)",
+                    "144 (12) Continued Study of Western Theatre and Principles of Text Study (3L, 1T)",
+                    "244 (16) Theatre History: Theory and Forms of Drama and Theatre (3L, 1T)",
+                    "318 (24) History, Performative Forms, and Text Analysis (4L)",
+                    "348 (24) Textual Analysis: Media and Film (4L)"
+                ]
+            ],
+            "Department of English",
+            [
+                "53880 English Studies",
+                [
+                    "178 (24) Literature and Language in Context (1L, 2S)",
+                    "214 (16) Reading Literature and Culture (2L, 2S)",
+                    "244 (16) Reading Literature and Culture (2L, 2S)",
+                    "318 (24) Reading Literature, Culture and Theory (4L, 2S)",
+                    "348 (24) Reading Literature, Culture and Theory (4L, 2S)"
+                ]
+            ],
+            "Department of General Linguistics",
+            [
+                "10294 General Linguistics",
+                [
+                    "178 (24) Introduction to Linguistics (3L, 1T)",
+                    "278 (32) Language and the Human Mind (3L)",
+                    "318 (24) Advanced Linguistics (4L)",
+                    "348 (24) Advanced Linguistics (4L)"
+                ],
+                "93874 Applied English Language Studies",
+                [
+                    "214 (16) Applied English Language Studies (3L)",
+                    "244 (16) Applied English Language Studies (3L)",
+                    "318 (24) Applied English Language Studies (3L, 2S)",
+                    "348 (24) Applied English Language Studies (3L, 2S)"
+                ],
+                "13521 Sign Language Studies",
+                [
+                    "178 South African Sign Language Acquisition",
+                    "318 (24) Sign Language Linguistics (3L, 1S)"
+                ]
+            ],
+            "Department of Geography and Environmental Studies",
+            [
+                "64165 Geo-Environmental Science",
+                [
+                    "124 (16) Introduction to Human-Environmental Systems (3L, 3P)",
+                    "154 (16) Introduction to Earth Systems Science (3L, 3P)"
+                ],
+                "12923 Geographical Information Technology",
+                [
+                    "211 (16) Earth Observation (3L, 3P)",
+                    "214 (16) Geographical Information Systems (3L, 3P)",
+                    "241 (16) Spatial Data Management (3L, 3P)",
+                    "242 (16) Digital Photogrammetry (3L, 3P)",
+                    "311 (16) Spatial Data Acquisition (3L, 3P)",
+                    "312 (16) Spatial Analysis (3L, 3P)",
+                    "341 (16) Spatial Modelling (3L, 3P)",
+                    "342 (16) Earth Observation (3L, 3P)"
+                ],
+                "56502 Geography and Environmental Studies",
+                [
+                    "225 (16) Urban and Tourism Development (3L, 3P)",
+                    "265 (16) Environmental Studies (3L, 3P)",
+                    "314 (12) Geography of Tourism (2L)",
+                    "323 (12) The South African City (2L)",
+                    "358 (16) Environmental Studies (3L, 3P)",
+                    "363 (16) Geographic Communication (3L, 3P)"
+                ]
+            ],
+            "Department of History",
+            [
+                "13463 History",
+                [
+                    "114 (12) Introduction to the Main Global Patterns and Developments in History (3L)",
+                    "144 (12) Survey of South African History (3L, 1T)",
+                    "214 (16) Key Processes in the Making of Western History (3L, 1T)",
+                    "244 (16) Africa and South Africa: Colonisation and the Rearrangement of Societies (3L, 1T)",
+                    "318 (24) Twentieth Century History: A Global Perspective (4L, 2T)",
+                    "348 (24) South Africa in the 20th Century (4L, 2T)"
+                ]
+            ],
+            "Department of Information Science",
+            [
+                "58173 Socio-Informatics",
+                [
+                    "114 (12) The Knowledge Economy and Society (3L)",
+                    "144 (12) Technology, Organisation and Society (3L)",
+                    "212 (8) Information Systems Introduction (2L)",
+                    "224 (16) Introduction to Computer Programming (2L, 2P)",
+                    "254 (16) Internet Technology and Design (1L, 3P)",
+                    "262 (8) Electronic Business and Government (2L)",
+                    "314 (18) Database Systems (3L, 2P)",
+                    "334 (18) Architecture of Information Systems and Enterprises (2L, 3P)",
+                    "354 (18) Information Systems (2L, 3P)",
+                    "364 (18) Knowledge Dynamics and Knowledge Management (3L, 1P)"
+                ],
+                "53899 Information Skills",
+                [
+                    "172 (6) Information and Computer Competence (1L, 1P)",
+                    "174 (12) Basic Information and Computer Competence (1L, 2P, 1T)"
+                ],
+                "11852 Information Systems Management"
+            ],
+            "Department of Modern Foreign Languages",
+            [
+                "11302 Chinese",
+                [
+                    "178 (24) Introduction to the Chinese Language and Culture (3L, 1P, 1T)",
+                    "278 (32) Continued Study of Chinese Language and Culture (4L, 1P)",
+                    "318 (24) Intermediate Study of the Chinese Language and Culture I (5L)",
+                    "348 (24) Intermediate Study of the Chinese Language and Culture II (5L)"
+                ],
+                "13145 French",
+                [
+                    "178 (24) Introduction to the French Language and Culture (3L, 1P, 1T)",
+                    "188 (24) Intermediate Study of the French Language, Literature and Culture (4L)",
+                    "278 (32) Continued Study of the French Language, Literature and Culture (3L, 1P, 1T)",
+                    "318 (24) Advanced Study of the French Language, Literature and Culture I (4L, 1P)",
+                    "348 (24) Advanced Study of the French Language, Literature and Culture II (4L, 1P)"
+                ],
+                "26107 German",
+                [
+                    "178 (24) Introduction to the German Language and Culture (3L, 1P, 1T)",
+                    "188 (24) German Language, Literature and Culture of the 20th and 21st Centuries (3L, 1T)",
+                    "278 (32) Intermediate Study of the German Language, Literature and Culture (3L, 1P)",
+                    "288 (32) German Language, Literature and Culture from the 18th Century to the Present (3L)",
+                    "318 (24) Advanced Study of the German Language and Culture I (2L, 2P)",
+                    "328 (24) Advanced Study of the German Literature and Culture I (3L, 1P)",
+                    "348 (24) Advanced Study of the German Language and Culture II (2L, 2P)",
+                    "358 (24) Advanced Study of the German Literature and Culture II (3L, 1P)"
+                ]
+            ],
+            "Department of Music",
+            [
+                "1. Practical Music Study",
+                "2.  Orchestral Practice",
+                "3.  Integrated Academic Support",
+                "4.  BA subjects",
+                "5.  Lectures (L) and Tutorials (T)",
+                "6.  Concerts and Performance Classes",
+                "7.  Second Examination Opportunity",
+                "9.  Enquiries",
+                "Module contents for the Higher Certificates in Music",
+                [
+                    "13886 Academic Literacy (Music)",
+                    [
+                        "114 (12) Academic Literacy (Music) (1L, 2S)",
+                        "144 (12) Academic Literacy (Music) (1L, 2S)"
+                    ]
+                ],
+                "24198 General Music Studies",
+                [
+                    "171 (8) General Music Studies (1L)",
+                    "51144 Business Management Music",
+                    [
+                        "171 (8) Business Management Music (1L, IT)"
+                    ],
+                    "40304 Aural Training",
+                    [
+                        "181(8) Aural Training (1L, 2T)"
+                    ],
+                    "11895 Creative Skills",
+                    [
+                        "191 (8) Creative Skills (1L)"
+                    ],
+                    "52558 Music Skills",
+                    [
+                        "171 (6) Music Skills (1L, 1T)"
+                    ],
+                    "50652 Music Technology",
+                    [
+                        "181(12) Music Technology (1L, 1T)",
+                        "182 (38) Music Technology (2L, 4T)",
+                        "183 (38) Music Technology (2L, 4T)",
+                        "184 (38) Music Technology (2L, 4T)"
+                    ],
+                    "16497 Theory of Music",
+                    [
+                        "171 (8) Practical Music Theory (1P, 1T)",
+                        "181 (12) Music Theory (2L, 1T)"
+                    ],
+                    "50660 Orchestral Practice",
+                    [
+                        "191 (8) Orchestral Practice (2P)"
+                    ],
+                    "51179 Practical Music Study A",
+                    [
+                        "111 (24) All Instruments, Voice, Conducting and Church Music (1L)"
+                    ],
+                    "54089 Repertoire Study",
+                    [
+                        "181 (8) Repertoire Study (1L)"
+                    ]
+                ],
+                "Module contents for the Diploma in Practical Music",
+                [
+                    "13886 Academic Literacy (Music)",
+                    [
+                        "114 (12) Academic Literacy (Music) (1L, 2S)",
+                        "144 (12) Academic Literacy (Music) (1L, 2S)"
+                    ],
+                    "24198 General Music Studies",
+                    [
+                        "191 (18) General Music Studies (2L, 3T)",
+                        "271 (12) General Music Studies (Practical) (2L, 1T)",
+                        "291 (16) General Music Studies (Theory) (2L, 2T)",
+                        "391 (16) General Music Studies (Theory) (2L, 2T)"
+                    ],
+                    "56510 Accompaniment",
+                    [
+                        "171 (12) Accompaniment (1L)",
+                        "271 (12) Accompaniment (1L)",
+                        "371 (12) Accompaniment (1L)"
+                    ],
+                    "51144 Business Management (Music)",
+                    [
+                        "381 (8) Business Management (Music) (1L, 1T)"
+                    ],
+                    "11849 Ensemble Singing",
+                    [
+                        "271 (12) Vocal Ensemble (2L)",
+                        "371 (12) Vocal Ensemble (2L)"
+                    ],
+                    "40304 Aural Training",
+                    [
+                        "191 (8) Aural Training (1L, 2T)",
+                        "291 (12) Aural Training (1L, 2T)"
+                    ],
+                    "62324 Chamber Music",
+                    [
+                        "281 (12) Chamber Music (2L)",
+                        "381 (12) Chamber Music (2L)"
+                    ],
+                    "11846 Church Music Practice",
+                    [
+                        "281 (12) Church Music Practice (2L)",
+                        "381 (12) Church Music Practice (2L)"
+                    ],
+                    "49018 Music Education",
+                    [
+                        "371 (16) Music Education (2L)"
+                    ],
+                    "50652 Music Technology",
+                    [
+                        "171 (12) Music Technology (Introductory) (1L, 1P)"
+                    ],
+                    "16497 Theory of Music",
+                    [
+                        "371 (12) Theory of Music (1L, 1T)"
+                    ],
+                    "11896 Teaching Method",
+                    [
+                        "121 (6) Teaching Method (1L)",
+                        "241 (12) Teaching Method (1L, 1P)",
+                        "341 (12) Teaching Method (1L, 1P)"
+                    ],
+                    "50660 Orchestral Practice",
+                    [
+                        "181 (12) Orchestral Practice (2P)",
+                        "281 (12) Orchestral Practice (2P)",
+                        "381 (12) Orchestral Practice (2P)"
+                    ],
+                    "44695 Orchestral Studies",
+                    [
+                        "271 (12) Orchestral Study (1L)",
+                        "371 (12) Orchestral Study (1L)"
+                    ],
+                    "51179 Practical Music Study A",
+                    [
+                        "171 (24) All Instruments, Voice, Conducting, and Church Music (1L)",
+                        "271 (24) All Instruments, Voice, Conducting, and Church Music (1L)",
+                        "371 (24) All Instruments, Voice, Conducting, and Church Music (1L)"
+                    ],
+                    "51187 Practical Music Study B",
+                    [
+                        "151 (12) Practical Music Study (1L)",
+                        "251 (12) Practical Music Study (1L)",
+                        "351 (12) Practical Music Study (1L)"
+                    ],
+                    "51217 Practical Music Study S",
+                    [
+                        "221 (24) Practical Music Study S (2L)",
+                        "261 (24) Practical Music Study S (2L)"
+                    ],
+                    "11848 Practical Score Reading",
+                    [
+                        "181 (12) Practical Score Reading (1L)",
+                        "281 (12) Practical Score Reading (1L)",
+                        "381 (12) Practical Score Reading (1L)"
+                    ],
+                    "54089 Repertoire Study",
+                    [
+                        "141 (6) Repertoire Studies (1L)",
+                        "281 (12) Repertoire Study (1L)",
+                        "381 (12) Repertoire Study (1L)"
+                    ],
+                    "11897 Languages for Singers",
+                    [
+                        "191 (12) Languages for Singers (1L, 1P)",
+                        "291 (12) Languages for Singers (1L, 1P)"
+                    ],
+                    "46841 Theatre Skills (Music)",
+                    [
+                        "391 (12) Theatre Arts (Music) (2L)"
+                    ]
+                ],
+                "Module contents for degree programmes and Advanced Diploma",
+                [
+                    "56510 Accompaniment",
+                    [
+                        "176 (12) Accompaniment (1L)",
+                        "276 (12) Accompaniment (1L)",
+                        "376 (12) Accompaniment (1L)",
+                        "476 (12) Accompaniment (1L)"
+                    ],
+                    "40304 Aural Training",
+                    [
+                        "174 (12) Aural Training (1L, 2T)",
+                        "271 (8) Aural Training (1L, 2T)"
+                    ],
+                    "51144 Business Management (Music)",
+                    [
+                        "474 (12) Business Management (Music) (2L)"
+                    ],
+                    "62324 Chamber Music",
+                    [
+                        "284 (12) Chamber Music (2L)",
+                        "384 (12) Chamber Music (2L)",
+                        "484 (12) Chamber Music (2L)"
+                    ],
+                    "11846 Church Music Practice",
+                    [
+                        "284 (12) Church Music Practice (2L)",
+                        "384 (12) Church Music Practice (2L)",
+                        "484 (12) Church Music Practice (2L)"
+                    ],
+                    "32964 Composition",
+                    [
+                        "279 (16) Composition (2L)",
+                        "379 (48) Composition (2L, 2T)",
+                        "479 (60) Composition (2L, 2T)"
+                    ],
+                    "11895 Creative Skills",
+                    [
+                        "476 (12) Creative Skills (2L)"
+                    ],
+                    "11849 Ensemble Singing",
+                    [
+                        "274 (12) Vocal Ensemble (2L)",
+                        "374 (12) Vocal Ensemble (2L)",
+                        "474 (12) Vocal Ensemble (2L)"
+                    ],
+                    "50628 Ethnomusicology",
+                    [
+                        "376 (24) Ethnomusicology (2L)",
+                        "476 (12) Ethnomusicology (1L)"
+                    ],
+                    "54003 Improvisation",
+                    [
+                        "394 (12) Improvisation (1L)",
+                        "494 (12) Improvisation (1L)"
+                    ],
+                    "11897 Languages for Singers",
+                    [
+                        "194 (12) Languages for Singers (1L, 1P)",
+                        "294 (12) Languages for Singers (1L, 1P)"
+                    ],
+                    "49018 Music Education",
+                    [
+                        "174 (12) Music Education (2L)",
+                        "278 (16) Music Education (2L)",
+                        "378 (24) Music Education (3L, 2P)",
+                        "478 (24) Music Education (3L, 2P)"
+                    ],
+                    "50652 Music Technology",
+                    [
+                        "112 (6) Music Technology (1L, 1P)",
+                        "142 (6) Music Technology (1L, 1P)",
+                        "222 (8) Music Technology (1L, 1P)",
+                        "252 (8) Music Technology (1L, 1P)",
+                        "379 (48) Music Technology (2L, 2T)",
+                        "479 (60) Music Technology (3L, 2T)"
+                    ],
+                    "44717 Musicology",
+                    [
+                        "174 (12) Musicology (2L)",
+                        "212 (8) Musicology (3L)",
+                        "242 (8) Musicology (3L)",
+                        "271 (8) Musicology (Music Skills) (2L, 2P)",
+                        "314 (12) Musicology (3L)",
+                        "344 (12) Musicology (3L)",
+                        "414 (12) Musicology (4L)",
+                        "444 (12) Musicology (4L)"
+                    ],
+                    "11845 Musicological Criticism",
+                    [
+                        "324 (12) Musicological criticism (2L)",
+                        "344 (12) Musicological criticism (2L)",
+                        "424 (12) Musicological criticism (2L)",
+                        "444 (12) Musicological criticism (2L)"
+                    ],
+                    "50660 Orchestral Practice",
+                    [
+                        "184 (12) Orchestral Practice (2P)",
+                        "284 (12) Orchestral Practice (2P)",
+                        "384 (12) Orchestral Practice (2P)",
+                        "484 (12) Orchestral Practice (2P)"
+                    ],
+                    "44695 Orchestral Studies",
+                    [
+                        "377 (12) Orchestral Study (1L)",
+                        "477 (12) Orchestral Study (1L)"
+                    ],
+                    "32956 Orchestration",
+                    [
+                        "388 (24) Orchestration (2L)",
+                        "488 (24) Orchestration (2L)"
+                    ],
+                    "51179 Practical Music Study A",
+                    [
+                        "184 (12) All Instruments, Conducting, and Voice (1L)",
+                        "284 (12) All Instruments, Conducting, and Voice (1L)",
+                        "384 (12) All Instruments, Conducting, and Voice (1L)",
+                        "484 (12) All Instruments, Conducting, and Voice (1L)",
+                        "178 (24) All instruments, Voice, Conducting, and Church Music (1L)",
+                        "278 (24) All Instruments, Voice, Conducting, and Church Music (1L)",
+                        "378 (24) All Instruments, Voice, Conducting, and Church Music (1L)",
+                        "478 (24) All Instruments, Voice, Conducting, and Church Music (1L)",
+                        "188 (36) All Instruments, Voice, Conducting, and Church Music (1L)",
+                        "288 (36) All Instruments, Voice, Conducting, and Church Music (1L)"
+                    ],
+                    "51187 Practical Music Study B",
+                    [
+                        "174 (12) Practical Music Study (1L)",
+                        "274 (12) Practical Music Study (1L)"
+                    ],
+                    "54070 Practical Music Study E",
+                    [
+                        "196 (24) Practical Music Study (1L)",
+                        "296 (24) Practical Music Study (1L)",
+                        "396 (24) Practical Music Study (1L)",
+                        "496 (24) Practical Music Study (1L)"
+                    ],
+                    "51217 Practical Music Study S",
+                    [
+                        "318 (24) Practical Music Study (2L)",
+                        "321 (30) Practical Music Study (2L)",
+                        "348 (24) Practical Music Study (2L)",
+                        "361 (30) Practical Music Study (2L)",
+                        "418 (30) Practical Music Study (2L)",
+                        "448 (30) Practical Music Study (2L)"
+                    ],
+                    "11848 Practical Score Reading",
+                    [
+                        "186 (12) Practical Score Reading (1L)",
+                        "286 (12) Practical Score Reading (1L)",
+                        "386 (12) Practical Score Reading (1L)",
+                        "486 (12) Practical Score Reading (1L)"
+                    ],
+                    "54089 Repertoire Study",
+                    [
+                        "242 (6) Repertoire Study (1L)",
+                        "394 (12) Repertoire Study (1L)",
+                        "389 (36) Repertoire Study (1L)",
+                        "494 (12) Repertoire Study (1L)"
+                    ],
+                    "10385 Research Methodology (Music)",
+                    [
+                        "474 (12) Research Methodology (Music) (2L)"
+                    ],
+                    "11847 Service Learning",
+                    [
+                        "496 (12) Service Learning module (2S)"
+                    ],
+                    "54100 Teaching Method: Theory of Music",
+                    [
+                        "394 (12) Theory of Music Teaching Method (2L)",
+                        "494 (12) Theory of Music Teaching Method (2L)"
+                    ],
+                    "11896 Teaching Method",
+                    [
+                        "212 (6) Teaching Method (1L)",
+                        "222 (6) Teaching Method (Second Instrument) (1L)",
+                        "374 (12) Teaching Method (1L, 1P)",
+                        "376 (12) Teaching Method (Second Instrument) (1L, 1P)",
+                        "474 (12) Teaching Method (1L, 1P)",
+                        "476 (12) Teaching Method (Second Instrument) (1L, 1P)"
+                    ],
+                    "49328 Teaching Practice",
+                    [
+                        "476 (12) Teaching Practice (2L, 2P)"
+                    ],
+                    "46841 Theatre Skills (Music) )",
+                    [
+                        "394 (12) Theatre Skills (Music) (2L)",
+                        "494 (12) Theatre Skills (Music) (2L)"
+                    ],
+                    "16497 Theory of Music",
+                    [
+                        "174 (12) Theory of Music (1L, 1T)",
+                        "222 (8) Theory of Music (2L, 2T)",
+                        "252 (8) Theory of Music (2L, 2T)",
+                        "324 (12) Theory of Music (2L, 2T)",
+                        "354 (12) Theory of Music (2L, 2T)",
+                        "424 (12) Theory of Music (2L, 2T)",
+                        "454 (12) Theory of Music (2L, 2T)"
+                    ]
+                ]
+            ],
+            "Department of Philosophy",
+            [
+                "12882 Philosophy",
+                [
+                    "114 (12) Introduction to Systematic Philosophy (3L, 1T)",
+                    "144 (12) Introduction to Moral Reasoning (3L, 1T)",
+                    "214 (16) Subdisciplines in Philosophy I (3L, 1T)",
+                    "244 (16) Subdisciplines in Philosophy II (3L, 1T)",
+                    "314 (12) Structuralism and Post-structuralism (2L, 1T)",
+                    "324 (12) Phenomenology and Existentialism (2L, 1T)",
+                    "334 (12) African Philosophy (2L, 1T)",
+                    "344 (12) Critical Social Theory and Ideology Critique (2L, 1T)",
+                    "354 (12) Analytic Philosophy (2L, 1T)",
+                    "364 (12) Political Philosophy (2L, 1T)"
+                ],
+                "65609 Philosophy and Ethics",
+                [
+                    "314 (4) Philosophy and Ethics (2L)",
+                    "414 (4) Philosophy and Ethics (2L)"
+                ]
+            ],
+            "Department of Political Science",
+            [
+                "44687 Political Science",
+                [
+                    "114 (12) Introduction to Political Science and South African Politics (2L, 0.5T)",
+                    "144 (12) Introduction to International Relations and African Politics (2L, 0.5T)",
+                    "212 (8) Political Behaviour (1.5L, 0.5T)",
+                    "222 (8) The Global Political Economy (1.5L, 0.5T)",
+                    "242 (8) Political Development (1.5L, 0.5T)",
+                    "252 (8) Foreign Policy Analysis (1.5L, 0.5T)",
+                    "314 (12) Political Theory (2L, 0.5T)",
+                    "324 (12) Comparative Politics (2L, 0.5T)",
+                    "344 (12) Political Conflict (2L)",
+                    "354 (12) Political Analysis (2L, 0.5T)",
+                    "364 (12) International Relations of Africa (2L)"
+                ]
+            ],
+            "Department of Psychology",
+            [
+                "18414 Psychology",
+                [
+                    "114 (12) Psychology as a Science (2L, 1T)",
+                    "144 (12) Psychology in Context (2L, 1T)",
+                    "213 (8) Approaches to Psychological Theories of the Person (1.5L)",
+                    "223 (8) Human Development in Context (1.5L)",
+                    "243 (8) Research Design in Psychology (1.5L)",
+                    "253 (8) Data Analysis in Psychology (1.5L)",
+                    "314 (12) Psychopathology (4L)",
+                    "324 (12) Social Psychology (4L)",
+                    "348 (24) Psychological Interventions (4L)"
+                ]
+            ],
+            "Department of Social Work",
+            [
+                "15865 Social Work",
+                [
+                    "178 (24) Introduction to Social Work (Theory) (3L)",
+                    "188 (24) Introduction to Social Work (Practice Education) (3P, 1T)",
+                    "278 (32) Methodology of Social Work (Theory) (2L, 1S)",
+                    "288 (32) Methodology of Social Work (Practice Education) (5P, 2T)",
+                    "378 (48) Intervention in Social Work (Theory) (3L, 1S)",
+                    "388 (48) Intervention in Social Work (Practice Education) (8P, 2T)",
+                    "478 (75) Integrated Social Work (Theory) (6L, 2S)",
+                    "488 (75) Integrated Social Work (Practice Education) (20P, 2T)"
+                ]
+            ],
+            "Department of Sociology and Social Anthropology",
+            [
+                "19003 Sociology",
+                [
+                    "114 (12) Introduction to Sociology and Social Anthropology (3L)",
+                    "144 (12) Social Issues in South Africa (3L)",
+                    "212 (8) Poverty, Development and the Environment (1.5L, 0.5T)",
+                    "222 (8) Social Identity and Inequality (1.5L, 0.5T)",
+                    "242 (8) Sociology of Communication (1.5L, 0.5T)",
+                    "252 (8) Industrial Sociology (1.5L, 0.5T)",
+                    "314 (12) Sociological Theory (2L, 0.5T)",
+                    "324 (12) Political Sociology (2L, 0.5T)",
+                    "344 (12) Sociology of Work and Employment (2L, 0.5T)",
+                    "354 (12) Community Development (2L, 0.5T)",
+                    "364 (12) Social Research (2L, 1P)"
+                ],
+                "54186 Social Anthropology",
+                [
+                    "212 (8) Social-anthropological Themes (1.5L, 0.5T)",
+                    "222 (8) Medical Anthropology (1.5L, 0.5T)",
+                    "242 (8) Public Anthropology (1.5L, 0.5T)",
+                    "252 (8) South African Anthropology (1.5L, 0.5T)",
+                    "314 (12) Reading and Doing Ethnography (2L, 0.5T)",
+                    "324 (12) Culture, Power and Identity (2L, 0.5T)",
+                    "344 (12) Theories and Debates in Social Anthropology (2L, 0.5T)",
+                    "354 (12) The Anthropology of Development (2L, 0.5T)"
+                ]
+            ],
+            "Department of Visual Arts",
+            [
+                "13885 Integrated Art and Design (Programme offered since 2019)",
+                [
+                    "178 (56) Investigation of Two- and Three-dimensional Art and Design Concepts (1L, 28P)",
+                    "278 (32) Investigation of Two- and Three-dimensional Art and Design Concepts (1L, 18P)",
+                    "378 (24)  Investigation of Two- and Three-dimensional Art and Design Concepts (1L, 12P)"
+                ],
+                "43249 Graphic Design (Programme being phased out)",
+                [
+                    "479 (48) Application of Advanced Graphic Design Concepts (16P)"
+                ],
+                "52523 Supportive Techniques (Programme being phased out)",
+                [
+                    "472 (12) Supportive Programme (8P)"
+                ],
+                "57495 Interdisciplinary Visual Studies (Programme being phased out)",
+                [
+                    "479 (48) Photography, Illustration, New Media and Printmaking (16P)"
+                ],
+                "32107 Jewellery Design (Programme being phased out)",
+                [
+                    "474 (24) Analytical Investigation of Concepts of Jewellery (12P)"
+                ],
+                "32107 Jewellery Design (Programme offered since 2019)",
+                [
+                    "278 (32) The Designer within the 21st-century Society (1L, 18P)",
+                    "378 (48) The Designer within the 21st-century Society (1L, 24P)",
+                    "479 (100) The Designer within the 21st-century Society (1L, 50P)."
+                ],
+                "32093 Metal Techniques (Programme being phased out)",
+                [
+                    "472 (12) Investigation of Ancient Techniques and Methods (4P)"
+                ],
+                "48151 Production Techniques (Jewellery) (Programme being phased out)",
+                [
+                    "479 (48) Methodical Realisation of Jewellery Designs (16P)"
+                ],
+                "48143 Fine Arts (Programme being phased out)",
+                [
+                    "379 (66) Investigation of Two- and Three-dimensional Art-making Processes (32P)",
+                    "479 (100) Investigation of Two- and Three-dimensional Art-making Processes (40P)"
+                ],
+                "48143 Fine Arts (Programme offered since 2019)",
+                [
+                    "278 (32) Investigation of Two- and Three-dimensional Art-making Processes (1L, 18P)",
+                    "378 (44) Investigation of Two- and Three-dimensional Art-making Processes (1L, 24P)",
+                    "479 (100)  Investigation of Two- and Three-dimensional Art-making Processes (1L, 50P)"
+                ],
+                "20346 Drawing (Programme offered since 2019)",
+                [
+                    "174 (16) Drawing Practice as Research (1L, 8P)",
+                    "274 (16) Drawing Practice as Research (1L, 8P)",
+                    "374 (18) Drawing Practice as Research (1L, 9P)"
+                ],
+                "46116 Theory of Art (Programme being phased out)",
+                [
+                    "479 (48) Contemporary Art and Theory (2L, 2S)"
+                ],
+                "13891 Theory of Art and Design (Programme offered since 2019)",
+                [
+                    "479 (48) Contemporary Theories of Art and Design (2L, 2S)"
+                ],
+                "11314 Visual Communication Design (Programme offered since 2019)",
+                [
+                    "278 (32) The Designer within the 21st-century Society  (1L, 18P)",
+                    "378 (48) The Designer within the 21st-century Society  (1L, 24P)",
+                    "479 (100) The Designer within the 21st-century Society  (1L, 50P)"
+                ],
+                "11802 Visual Studies",
+                [
+                    "178 (24) Visual Culture and Interpretation (2L, 1T)",
+                    "278 (32) 19th- and 20th-century Visual Culture (3L, 1T)",
+                    "318 (24) Identity and Difference in African and South African Visual Culture (3L, 1T)",
+                    "348 (24) Identity and Difference in African and South African Visual Culture (3L, 1T)"
+                ]
+            ],
+            "Language Centre",
+            [
+                "59447 Professional Communication",
+                [
+                    "113 (8) Professional Communication (2L, 1T)"
+                ],
+                "64866 Scientific Communication Skills",
+                [
+                    "116 (12) Scientific Communication Skills (3L, 3T)",
+                    "146 (6) Scientific Communication Skills (3L)",
+                    "172 (8) Scientific Communication Skills (2L)"
+                ],
+                "12761 Writing Skills",
+                [
+                    "171 (10) Writing Skills (1L, 1T)"
+                ]
+            ],
+            "Extended Degree Programmes (EDPs)",
+            [
+                "65463 Introduction to the Humanities",
+                [
+                    "178 (24) Outline \u2013 Introduction to the Humanities (3L, 1T)"
+                ],
+                "11572 Texts in the Humanities",
+                [
+                    "113 (12) Texts in the Humanities (Introductory) (2L, 2T)",
+                    "123 (12) Texts in the Humanities (3L, 2T)",
+                    "143 (12) Texts in the Humanities (Continued) (2L, 2T)",
+                    "153 (12) Texts in the Humanities (3L, 1T)"
+                ],
+                "53899 Information Skills",
+                [
+                    "174 (12) Basic Information and Computer Competence (1L, 2P, 1T)"
+                ]
+            ]
+        ]
+    ],
+    "Research and Service Bodies",
+    [
+        "1. Africa Open Institute for Music, Research and Innovation",
+        "2. Centre for Applied Ethics",
+        "3. Centre for Bible Interpretation and Translation in Africa",
+        "4. Centre for Comic, Illustrative and Book Arts (CCIBA)",
+        "5. Centre for Community Psychology Services",
+        "6. Centre for Geographical Analysis (CGA)",
+        "7. Centre for Knowledge Dynamics and Decision-making",
+        "8. Centre for Regional and Urban Innovation and Statistical Exploration (CRUISE)",
+        "9. Centre for Research on Evaluation, Science and Technology (CREST)",
+        "10. HUMARGA",
+        "11. Research Alliance for Disaster and Risk Reduction (RADAR)"
+    ],
+    "Alphabetical List of Subjects",
+    [
+        "Exclusion subjects for 2022"
+    ]
+]
