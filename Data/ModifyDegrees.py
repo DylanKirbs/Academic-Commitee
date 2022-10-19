@@ -13,14 +13,12 @@ def addDegreeDialogue():
     print("Degrees:")
     pprint(HemisDB.degrees)
 
-
-
     acronym = input("Enter the acronym of the degree: ")
     name = input("Enter the name of the degree: ")
 
     print("Confirm you with to add '{acronym}': '{name}' to the HemisDB.json file? (y/n)".format(acronym=acronym, name=name))
     if input() != "y":
-        exit()
+        sys.exit()
 
     HemisDB.addDegree({acronym: name})
     HemisDB.save()
@@ -29,7 +27,7 @@ def addDegreeDialogue():
 def removeDegreeDialogue():
     print("Warning: This script will permanently modify the database. Continue? (y/n)")
     if input() != "y":
-        exit()
+        sys.exit()
 
     HemisDB = HemisDBManager("Data/HemisDB.json")
 
@@ -40,7 +38,7 @@ def removeDegreeDialogue():
 
     print("Confirm you with to remove '{acronym}' from the HemisDB.json file? (y/n)".format(acronym=acronym))
     if input() != "y":
-        exit()
+        sys.exit()
 
     HemisDB.removeDegree(acronym)
     HemisDB.save()
