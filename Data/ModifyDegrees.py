@@ -1,11 +1,12 @@
 from pprint import pprint
+import sys
 from HemisDBManager import HemisDBManager
 
 
 def addDegreeDialogue():
     print("Warning: This script will permanently modify the database. Continue? (y/n)")
     if input() != "y":
-        exit()
+        sys.exit()
 
     HemisDB = HemisDBManager("Data/HemisDB.json")
 
