@@ -1,87 +1,86 @@
-# Manager Class for the Hemis Database (JSON)
+from os import path
+from shutil import copyfile
+import sqlite3
 
-# Imports
-import json
+class HemisDataBase():
 
-# Class
+    def __init__(self):
+        # Connect to the database
+        self._conn = sqlite3.connect('Data/HemisDB.db')
+        self._c = self._conn.cursor()
 
+        self._initTables()   
 
-class HemisDBManager:
-    def __init__(self, path: str) -> None:
+    def _initTables(self):
+        """ Initialise the tables with the default values if the tables do not exist
+        :return: None
         """
-        Loads DB from path on INIT"""
-        self._data = None
-        self._path = path
+        # Create the tables if it doesn't exist
+        # The faculties
+        faculty_table = """CREATE TABLE IF NOT EXISTS faculty (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            name TEXT NOT NULL
+        ); """
 
-        self.load()
+        # The modules
+        module_table = """CREATE TABLE IF NOT EXISTS module (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            name TEXT NOT NULL,
+            number INTEGER NOT NULL,
+            credits INTEGER NOT NULL
+        ); """
 
-    def load(self) -> dict:
+        # The degrees
+        degree_table = """CREATE TABLE IF NOT EXISTS degree (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            abbreviation TEXT NOT NULL,
+            name TEXT NOT NULL,
+            faculty_id INTEGER NOT NULL,
+            module_ids TEXT NOT NULL,
+            FOREIGN KEY (faculty_id) REFERENCES faculty(id)
+        ); """
+
+        self.executeSQL(faculty_table)
+        self.executeSQL(module_table)
+        self.executeSQL(degree_table)
+        self.commitSQL()
+
+    def executeSQL(self, sql):
+        """ Execute the SQL statement
+        :param sql: The SQL statement
+        :return: None
+
+        NOTE: This is a wrapper for the cursor execute method
+        WARNING: This does not commit the changes to the database
         """
-        Load the data from the DB
+        self._c.execute(sql)
 
-        :Return: The dictionary of the DB
-        """
-        with open(self._path, "r") as f:
-            self._data = json.load(f)
+    def commitSQL(self):
+        """ Commit the changes to the database
+        :return: None
 
-        return self._data
+        NOTE: This is a wrapper for the connection commit method
+        WARNING: This method is not preferred as it is not managed by the API
+        """
+        self._conn.commit()
 
-    def save(self):
+    def backupDB(self):
+        """ Backup the database to the backup folder
+        :return: None
         """
-        Save the data from the Manager into the DB
-        """
-        with open(self._path, "w") as f:
-            json.dump(self._data, f)
+        
+        copyfile('Data/HemisDB.db', 'Data/Backup/HemisDB.db')
 
-    def addDegree(self, degree: dict):
+    def restoreDB(self):
+        """ Restore the database from the backup folder
+        :return: None
         """
-        Takes in a degree dict as follows:
-        key: abbreviation
-        value: name
+        if not path.exists('Data/Backup/HemisDB.db'):
+            raise Exception('Backup database does not exist')
 
-        Eg. {"bsc": "Bachelor of Science"}
+        copyfile('Data/Backup/HemisDB.db', 'Data/HemisDB.db')
+        
 
-        Note: This will be added to the DB or updated if it already exists
-        """
-
-        # make the keys lower case
-        degree = {key.lower(): val for key, val in degree.items()}
-
-        self._data["Degrees"].update(degree)
-
-    def removeDegree(self, degree: str):
-        """
-        Removes the degree from the DB
-
-        :param degree: The degree to remove
-        """
-        self._data["Degrees"].pop(degree)
-
-
-    @property
-    def data(self) -> dict:
-        """
-        Note: This give you direct access to the data
-        """
-        return self._data
-
-    @property
-    def calenderURL(self) -> str:
-        """
-        Returns the URL string
-        """
-        return self._data["URL"]
-
-    @property
-    def faculties(self) -> list[str]:
-        """
-        Returns the list of faculties
-        """
-        return self._data["Faculties"]
-
-    @property
-    def degrees(self) -> list[dict]:
-        """
-        Returns the list of degrees
-        """
-        return self._data["Degrees"]
+if __name__ == "__main__":
+    # Test the database
+    db = HemisDataBase()

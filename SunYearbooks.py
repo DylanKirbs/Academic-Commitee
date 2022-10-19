@@ -78,3 +78,8 @@ if __name__ == "__main__":
 
     pprint(HemisDB.degrees)
 
+    # find the required modules for a degree from the calendar
+    degree = "BSc"
+    major = "Computer Science"
+    minor = "Data Science"
+    faculty = "Science"
