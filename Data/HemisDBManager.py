@@ -4,7 +4,7 @@ from shutil import copyfile
 import sqlite3
 
 @dataclass
-class faculty:
+class Faculty:
     name: str
 
     def __str__(self) -> str:
@@ -14,10 +14,10 @@ class faculty:
         return f"{self.name}"
 
 @dataclass
-class module:
+class Module:
     name: str
     code: str
-    credits: faculty
+    credits: Faculty
 
     def __str__(self) -> str:
         return f"{self.name} ({self.code})"
@@ -26,11 +26,11 @@ class module:
         return f"{self.name} ({self.code})"
 
 @dataclass
-class degree:
-    abbreviation: str
-    name: str
-    faculty: faculty
-    modules: list[module]
+class Degree:
+    major: str
+    stream: str
+    faculty: Faculty
+    modules: list[Module]
 
     def __str__(self) -> str:
         return f"{self.name} ({self.abbreviation})"
@@ -38,6 +38,7 @@ class degree:
     def __repr__(self) -> str:
         return f"{self.name} ({self.abbreviation})"
 
+# TODO: Add logging
 class HemisDataBase():
 
     def __init__(self):
@@ -69,8 +70,8 @@ class HemisDataBase():
         # The degrees
         degree_table = """CREATE TABLE IF NOT EXISTS degree (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
-            abbreviation TEXT NOT NULL,
-            name TEXT NOT NULL,
+            major TEXT NOT NULL,
+            stream TEXT NOT NULL,
             faculty_id INTEGER NOT NULL,
             module_ids TEXT NOT NULL,
             FOREIGN KEY (faculty_id) REFERENCES faculty(id)
@@ -122,7 +123,7 @@ class HemisDataBase():
         """
         self._conn.close()
 
-    def addFaculty(self, faculty: faculty):
+    def addFaculty(self, faculty: Faculty):
         """ Add a faculty to the database
         :param faculty: The faculty to add
         :return: None
@@ -131,7 +132,7 @@ class HemisDataBase():
         self.executeSQL(sql)
         self.commitSQL()
 
-    def addModule(self, module: module):
+    def addModule(self, module: Module):
         """ Add a module to the database
         :param module: The module to add
         :return: None
@@ -140,7 +141,7 @@ class HemisDataBase():
         self.executeSQL(sql)
         self.commitSQL()
 
-    def addDegree(self, degree: degree):
+    def addDegree(self, degree: Degree):
         """ Add a degree to the database
         :param degree: The degree to add
         :return: None
@@ -157,7 +158,7 @@ class HemisDataBase():
             self.executeSQL(sql)
             module_ids.append(self._c.fetchone()[0])
 
-        sql = f"INSERT INTO degree (abbreviation, name, faculty_id, module_ids) VALUES ('{degree.abbreviation}', '{degree.name}', '{faculty_id}', '{module_ids}');"
+        sql = f"INSERT INTO degree (major, stream, faculty_id, module_ids) VALUES ('{degree.major}', '{degree.stream}', '{faculty_id}', '{module_ids}');"
         self.executeSQL(sql)
         self.commitSQL()
 
@@ -168,13 +169,25 @@ class HemisDataBase():
         sql = "SELECT * FROM faculty;"
         self.executeSQL(sql)
         faculties = self._c.fetchall()
-        faculties = list(faculty(f[1]) for f in faculties)
+        faculties = list(Faculty(f[1]) for f in faculties)
         return faculties
 
-if __name__ == "__main__":
-    # Test the database
-    db = HemisDataBase()
+    def getModules(self):
+        """ Get all the modules from the database
+        :return: A list of modules
+        """
+        sql = "SELECT * FROM module;"
+        self.executeSQL(sql)
+        modules = self._c.fetchall()
+        modules = list(Module(m[1], m[2], m[3]) for m in modules)
+        return modules
 
-    print(db.getFaculties())
-
-    db.closeDB()
+    def getDegrees(self):
+        """ Get all the degrees from the database
+        :return: A list of degrees
+        """
+        sql = "SELECT * FROM degree;"
+        self.executeSQL(sql)
+        degrees = self._c.fetchall()
+        degrees = list(Degree(d[1], d[2], d[3], d[4]) for d in degrees)
+        return degrees

@@ -1,0 +1,32 @@
+{
+    "BSc Computer Science": {
+        "Stream": "Data Science",
+        "Faculty": "Science",
+        "Modules": {
+            "1": [
+                [
+                    "Mathematics",
+                    114,
+                    52
+                ],
+                [
+                    "Mathematics",
+                    144,
+                    52
+                ]
+            ],
+            "2": [
+                [
+                    "Mathematics",
+                    214,
+                    52
+                ],
+                [
+                    "Mathematics",
+                    244,
+                    52
+                ]
+            ]
+        }
+    }
+}
