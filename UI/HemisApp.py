@@ -5,7 +5,7 @@ PROJECT_PATH = pathlib.Path(__file__).parent
 PROJECT_UI = PROJECT_PATH / "HemisApp.ui"
 
 
-class HemisappApp:
+class HemisApp:
     def __init__(self, master=None):
         self.builder = builder = pygubu.Builder()
         builder.add_resource_path(PROJECT_PATH)
@@ -19,5 +19,5 @@ class HemisappApp:
 
 
 if __name__ == "__main__":
-    app = HemisappApp()
+    app = HemisApp()
     app.run()
